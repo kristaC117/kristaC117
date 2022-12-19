@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristaC117
 - 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently teaching myself SQL, Odoo ORM API using python in Ubuntu and Kotlin.
+- 🌱 I’m currently teaching myself SQL, Javascript/CSS/HTML, and C++.
 - 📫 How to reach me: 505-604-4565 or via email at krisconley117@gmail.com
 
 <!---
